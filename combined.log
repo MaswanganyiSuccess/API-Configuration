@@ -1,0 +1,26 @@
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T08:03:09.066Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T08:03:09.092Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T08:10:21.234Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T08:10:21.265Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T08:23:38.747Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T08:23:38.871Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T08:29:51.030Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T08:29:51.056Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T09:16:12.847Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T09:16:12.872Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T09:24:55.013Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T09:24:55.040Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T09:42:39.347Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T09:42:39.373Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T09:48:31.348Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T09:48:31.377Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T09:54:33.688Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T09:54:33.713Z"}
+{"level":"info","message":"Server is running on http://royalelites.co.za:3000","timestamp":"2024-07-31T12:59:15.607Z"}
+{"level":"error","message":"Database connection error: Error: connect ETIMEDOUT\n    at Connection._handleTimeoutError (C:\\Users\\User.DESKTOP-U3GE0I3\\Mamela Data Files\\debt_Review\\node_modules\\mysql2\\lib\\connection.js:205:17)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2024-07-31T12:59:25.652Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T13:11:20.778Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T13:11:20.803Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-07-31T14:58:47.942Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-07-31T14:58:47.973Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-08-01T08:26:34.741Z"}
+{"level":"info","message":"Connected to database.","timestamp":"2024-08-01T08:26:34.839Z"}
